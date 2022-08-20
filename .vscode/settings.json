@@ -1,0 +1,18 @@
+{
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#141422",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#141422",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3",
+    "activityBar.background": "#561A00",
+    "titleBar.activeBackground": "#782400",
+    "titleBar.activeForeground": "#FFF8F5"
+  },
+  "cSpell.words": ["ALLCLEAR", "ALLCOMPLETED", "COLORCHANGED", "COLORSLECTED", "STATUSCHANGED", "STATUSSELECTED", "TODOADDED", "todos"]
+}
